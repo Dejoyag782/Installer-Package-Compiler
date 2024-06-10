@@ -2,7 +2,7 @@
 A python program that creates a installer of a laravel project encased in a zip file. It checks for missing basic requirements in order for a laravel application to function in windows such as XAMPP, Composer, &amp; 7zip.
 
 
-In order to execut you must first install python
+In order to execute you must first install python
 
 after installing python run a console and execute this command "pip install pyinstaller"
 
